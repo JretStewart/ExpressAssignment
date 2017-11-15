@@ -1,0 +1,22 @@
+{
+  "name": "expressassignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sploosh4snootch/ExpressAssignment.git"
+  },
+  "author": "JMS",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sploosh4snootch/ExpressAssignment/issues"
+  },
+  "homepage": "https://github.com/sploosh4snootch/ExpressAssignment#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
